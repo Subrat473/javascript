@@ -1,5 +1,7 @@
 // array
 
+const { marvel_heros } = require("./more_in_arr");
+
 
 const myArr = [0,1,2,3,4,5,6]
 const myHeros = ["shaktiman","goga"]
@@ -19,4 +21,5 @@ console.log(myArr [1]);
 
 myArr.push(6)
 console.log(myArr);
+console.log(marvel_heros);
           
