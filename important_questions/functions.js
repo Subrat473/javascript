@@ -41,3 +41,19 @@ function getScore() {
 }
 
 console.log(getScore()); // "Chamakh scored 5"
+
+
+
+
+function Person() {
+  // Some choose `that` instead of `self`.
+  // Choose one and be consistent.
+  const self = this;
+  self.age = 0;
+
+  setInterval(function growUp() {
+    // The callback refers to the `self` variable of which
+    // the value is the expected object.
+    self.age++;
+  }, 1000);
+}
