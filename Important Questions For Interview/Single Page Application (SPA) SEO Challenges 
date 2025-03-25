@@ -1,0 +1,4 @@
+What are the SEO challenges with SPAs and how can they be addressed?
+
+SPAs often struggles with SEO as content is dynamically loaded, making it hard for search engine crawlers to index. 
+Solutions include server-side rendering (SSR), using the History API to update URLs for differnet views, and leveraging pre-rendering services or static site generatiors.

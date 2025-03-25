@@ -1,0 +1,4 @@
+Describe the components of the box model and their impact on element spacing.
+
+THe CSS box model consists of four areas: content, padding, border, and margin. These layers affect the total size and spacing of an element on the page. 
+Understanding this model is crucial for precise layout control, as it determines how elements are sized and how they interact with each other in the document flow.

@@ -1,0 +1,3 @@
+what strategies would you employ to optimize the performance of a web applicaion?
+
+Optimization strategies include minimizing and compressing assets (CSS, JavaScript, Images), implementing lazy loading for images and components, using CDN for static assets, optimizing CSS selectors, and leveraging browser caching.

@@ -1,0 +1,3 @@
+Descibe the concept and its practical uses. 
+
+Event delegation is a technique where instead of adding an event listenter to each similar child element, you add a single event listener to a parent element. It leverages the event bubbling phase to catch events from child elements. Advantages include reduced memory usage (fewer event listener ) and dynamically handling events from elements added after the initial page load. 

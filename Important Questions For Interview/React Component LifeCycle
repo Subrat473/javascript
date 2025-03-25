@@ -1,0 +1,5 @@
+Describe the lifecycle of a React component and how you would use it to fetch data. 
+
+React components have several lifecycle methods: 
+constructor(), render(), componentDidMount(), shouldComponentUpdate(), componentDidUpdadte(),
+and componentWillUnmount(). To fetch data, use componentsDidMount() for class components or useEffect() hook in functional components ro perform side effect, including data fetching after the inital render. 

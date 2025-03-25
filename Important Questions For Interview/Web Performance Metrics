@@ -1,0 +1,3 @@
+What key performance metrics would you consider critical for a web application?
+
+Critical web performance metrics include first contentful paint (FCP), Largest ContentFul Paint (LCP), Time to interactive (TTI), Speed index, Cumlative Layout Shift(CLS), and First Input Delay (FID). These metrics help understand the loading experience, interactivity, and visual stability of a page. 

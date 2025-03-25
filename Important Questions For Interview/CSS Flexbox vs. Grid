@@ -1,0 +1,3 @@
+Compare CSS Flexbox and Grid. When would you use one over the other?
+
+Flexbox is a one-dimensional layout method ideal for arranging items in a single row or colum, offering control over alignment and spacing. Grid is a two-dimensional layout system, perfect for creating complex layouts and aligning ocntent withing rows and columns. Use Flexbox for simpler, linear layout and Grid for more complex, multi dimensional layouts.

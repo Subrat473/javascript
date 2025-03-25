@@ -1,0 +1,3 @@
+What is CORS and how do you handle it in web applications?
+
+CORS is a security feature that restricts web applications from making requests to a domain different from the one which served the web page. To handle it, configure the server to include CORS headers like Access-Control-Allow-Origin in the response, specifying whcih domains are allowed to access the resources. 

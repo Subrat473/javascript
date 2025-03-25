@@ -1,0 +1,3 @@
+Compare the useState and useReducer hooks in React.
+
+useState is a suitable for simple static logic, providing a variable and function to update it. useReducer is better for complex state logic that involves multple sub-values or when the next state depends on the previous one, as it lets you manage local state of complex components with a reducer function. 
