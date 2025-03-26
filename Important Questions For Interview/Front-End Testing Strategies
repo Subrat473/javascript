@@ -1,0 +1,3 @@
+What strategies and tools do you use for front-end testing?
+
+Effective front end testing strategies include unit testing with Jest, integration testing with React Testing Librariey, and end-to-end testing with Cypress or selenium. Each testing type targets different aspeccts of the application, from individuals functions and components to integrated workflows and the full user experience.

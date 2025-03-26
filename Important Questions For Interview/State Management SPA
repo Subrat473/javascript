@@ -1,0 +1,4 @@
+How do you manage state in a single page application (SPA)?
+
+in SPA, state management can be handled with global state management libraries like Redux or Context API in React applications. 
+These tools help maintain consistency across the application, making it easier to share state across components and manage changes reactively.

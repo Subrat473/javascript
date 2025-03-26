@@ -1,0 +1,7 @@
+How would you implement a dark mode feature in a web application?
+
+To implement dark mode, use CSS custon properties (variables) for color schemes and media queries (prefers-color-scheme) to detect system theme preferences.
+Provide a toggle option for users to switch manually, storin their preference locally to persist across sessions.
+
+
+These questions represent a mix of foundational knowledge and practical skills in front end developent, reflecting the breadth and depth expected in intervies at top tech companies. Remember, the key to success lies not only in knowing the ansers but in understanding the underlying concept and being able to discuss and apply them in various scenarios.

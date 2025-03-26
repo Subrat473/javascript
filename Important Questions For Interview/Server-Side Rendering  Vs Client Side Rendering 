@@ -1,0 +1,5 @@
+compare server side rendering(SSR) and client side rendering (CSR).
+
+
+CSR renders pages directly in the browser using JavaScript, leading to faster subsequent loads and a smoother user experience.
+SSR generates HTML on the server and sends it to the client, improving initial load times and SEO. Use CSR for dynamic, app-like experience and SSR for static sites or when SEO is a priority.
