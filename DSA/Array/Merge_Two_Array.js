@@ -7,7 +7,7 @@ for(i=0;i<data.length;i++){
     data3[i] = data[i];
 }
 for(i=0;i<data2.length;i++){
-   data3[data.length=i]=data[i];
+   data3[data.length=i]=data2[i];
     
 }
 

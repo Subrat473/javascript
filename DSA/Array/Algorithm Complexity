@@ -1,0 +1,19 @@
+
+Qus:- What is Algorithm?
+
+Algorithm is something like steps you took to complete a task or to solve a problem.
+
+
+Qus:- What is Algorithm Complexity?
+
+
+There are two types of Complexities We have in Algorithm 
+1 - Time Complexity = The time Complexity is mainly calculated by counting the number of steps to finish the execution.
+
+2 - Space Complexity = Space Complexity is the amount of Space required to solve a problem.
+Space Complexity = Auxiliary Space + Input Size.
+
+
+Qus:- What is Big O notation?
+
+It's Used to denote both type of Complexity.
